@@ -1,0 +1,16 @@
+{
+  "name": "mern-boilerplate",
+  "version": "1.0.0",
+  "description": "MERN Application Boilerplate",
+  "main": "server.js",
+  "repository": "https://github.com/stanlouis/mern-boilerplate.git",
+  "author": "Stanley Louis",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
